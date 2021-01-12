@@ -1,7 +1,6 @@
-# intro_prog_I_Dic
-Curso de introducción a la programación I Diciembre 2020
+# introd_prog_I_Dic
+Curso de Introducción a la Prog. I Diciembre 2020
 
- ## webs de apoyo y documentación para el curso
+## webs de apoyo y documentación para el curso
 
- https://www.w3schools.com/js/default.asp
-
+https://www.w3schools.com/js/default.asp
